@@ -1,0 +1,3 @@
+/home/appuser/Data/Exercise1/debug/CMakeFiles/SumValues.dir
+/home/appuser/Data/Exercise1/debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Exercise1/debug/CMakeFiles/rebuild_cache.dir
